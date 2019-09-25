@@ -1,6 +1,6 @@
 # the-weather
 
-The weather is a Django based web application which uses the API of openweathermap.com to forcast weather of cities all around the world.
+The weather is a Django based web application which uses the API of openweathermap.com to forecast weather of cities all around the world.
 
 # Django version: 2.2.3
 install the same version of django to run the project on your system
